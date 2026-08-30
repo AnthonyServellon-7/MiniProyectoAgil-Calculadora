@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "CalculadoraAgil": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}
